@@ -53,13 +53,13 @@ Companies receive large volumes of customer feedback, but reviews are typically 
 ## Visualizations
 
 ### Theme Distribution
-![Theme Distribution](figures/top_review_themes.png)
+![Theme Distribution](main/figures/top_review_themes.png)
 
 ### Sentiment by Theme
-![Sentiment by Theme](figures/pos_neg_reviews_by_theme.png)
+![Sentiment by Theme](main/figures/pos_neg_reviews_by_theme.png)
 
 ### Highest Negative Sentiment Themes
-![Negative Sentiment](figures/most_negative.png)
+![Negative Sentiment](main/figures/most_negative.png)
 
 ## Business Recommendations
 
